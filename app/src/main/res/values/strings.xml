@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">TripViserApp</string>
+    <string name="TripviserApp">TripViser App</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="Mombasa">Mombasa</string>
+    <string name="desc">Known for its beauty</string>
+    <string name="like">In Mombasa you will love the weather</string>
+    <string name="Brief">Mombasa, city and chief port of Kenya, situated on a coralline island in a bay of the Indian Ocean. ... The old city is strongly Middle Eastern, with narrow streets, high houses with carved ornamental balconies, and mosques and temples. It is the site of Fort Jesus, built by the Portuguese (1593–95) and now a museum. famous for its beaches, world-class beach resorts, and its historical significance. It is the most popular tourist destination in Kenya and is the second largest city in Kenya (second only to the capital city, Nairobi).</string>
+    <string name="_2_687">2,687</string>
+    <string name="tripviser">TripViser</string>
+    <string name="next">Next</string>
+    <string name="prev">Prev</string>
+    <string name="maasai_mara">Maasai Mara</string>
+    <string name="what_a_beautiful_scenery">What a beautiful scenery</string>
+    <string name="for_wild_animal_lovers">for wild animal lovers</string>
+    <string name="about">Maasai Mara, also sometimes spelled Masai Mara and locally known simply as The Mara, is a large national game reserve in Narok, Kenya, contiguous with the Serengeti National Park in Tanzania. It is named in honor of the Maasai people, the ancestral inhabitants of the area, who migrated to the area from the Nile Basin.The reserve is one of the best for big cats, but sightings of smaller predators like bat-eared fox, black-backed jackal and spotted hyena also tend to be rewarding. Antelope include impala, reedbuck, Thomson\'s gazelle, eland and topi, while buffalo, elephant and giraffe are relaxed and easily spotted.</string>
+    <string name="what_a_site_to_behold">What a site to behold</string>
+    <string name="lakenakuru">Lake Nakuru is one of the Rift Valley lakes at an elevation of 1,754 m (5,755 ft) above sea level. It lies to the south of Nakuru, in the rift valley of Kenya and is protected by Lake Nakuru National Park. The lake\'s abundance of algae used to attract a vast quantity of flamingos that famously lined the shore.It is one of the saline lakes of the lake system lying in the Great Rift Valley of eastern Africa. Primarily known for its many species of birds, including vast numbers of pink flamingos, Lake Nakuru also has waterbucks, impalas, and hippopotamuses.</string>
+    <string name="park">Park</string>
+    <string name="lake_nakuru">Lake Nakuru</string>
+    <string name="beautiful_lake_with_flamingoes">Beautiful lake with Flamingoes</string>
+
+</resources>
